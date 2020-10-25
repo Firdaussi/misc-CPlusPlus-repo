@@ -1,2 +1,2 @@
 # misc-CPlusPlus-repo
-Misc C++ programs
+Miscellaneous C++ programs
